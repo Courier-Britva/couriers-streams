@@ -1,7 +1,7 @@
 import { ComposableMap, Geographies, Geography, Marker, ZoomableGroup } from 'react-simple-maps'
 import mapData from './../mapdata.json'
 
-const geoUrl = '/countries-110m.json'
+const geoUrl = process.env.PUBLIC_URL + '/countries-110m.json'
 
 export default function MapWithInteraction() {
   return (
@@ -14,7 +14,6 @@ export default function MapWithInteraction() {
         zoom={4}
         minZoom={3.2}
         maxZoom={6}
-        zoomStep={0.05}
       >
         <Geographies geography={geoUrl}>
           {({ geographies }) =>
