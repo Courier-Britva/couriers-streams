@@ -10,8 +10,8 @@ export default function MapWithInteraction() {
       className='svg__body'
     >
       <ZoomableGroup
-        center={[10.0, 50.0]}
-        zoom={4}
+        center={[10.0, 35.0]}
+        zoom={5}
         minZoom={3.2}
         maxZoom={6}
       >
