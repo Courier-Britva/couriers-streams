@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/couriers-streams/static/css/main.23e3166f.css",
-    "main.js": "/couriers-streams/static/js/main.2de41b3c.js",
+    "main.js": "/couriers-streams/static/js/main.7297bdcf.js",
     "index.html": "/couriers-streams/index.html",
     "main.23e3166f.css.map": "/couriers-streams/static/css/main.23e3166f.css.map",
-    "main.2de41b3c.js.map": "/couriers-streams/static/js/main.2de41b3c.js.map"
+    "main.7297bdcf.js.map": "/couriers-streams/static/js/main.7297bdcf.js.map"
   },
   "entrypoints": [
     "static/css/main.23e3166f.css",
-    "static/js/main.2de41b3c.js"
+    "static/js/main.7297bdcf.js"
   ]
 }
