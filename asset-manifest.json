@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/couriers-streams/static/css/main.23e3166f.css",
+    "main.js": "/couriers-streams/static/js/main.2de41b3c.js",
+    "index.html": "/couriers-streams/index.html",
+    "main.23e3166f.css.map": "/couriers-streams/static/css/main.23e3166f.css.map",
+    "main.2de41b3c.js.map": "/couriers-streams/static/js/main.2de41b3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23e3166f.css",
+    "static/js/main.2de41b3c.js"
+  ]
+}
